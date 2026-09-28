@@ -81,5 +81,5 @@ Based on findings, the company can:
 
 ## Author
 
-Elias Psagane Matlebyane
+Elias Matlebyane
 
